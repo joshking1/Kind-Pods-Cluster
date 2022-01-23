@@ -1,5 +1,5 @@
 # Kind-Pods-Cluster
-Most students are experiencing challenges whenever they are trying to connect with the Google Kubernetes Cluster using Jenkins in the process of deploying
+Some people are experiencing challenges whenever they are trying to connect with the Google Kubernetes Cluster using Jenkins in the process of deploying
 the image application to the live production environment. 
 
 Jenkins is not connecting with the Google Kubernetes Cluster because of the following issues: 
