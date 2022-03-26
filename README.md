@@ -1,6 +1,6 @@
 # Kind-Pods-Cluster
 Some people are experiencing challenges whenever they are trying to connect with the Google Kubernetes Cluster using Jenkins in the process of deploying
-the image application to the live production environment. 
+the image application to the live production environment in DeVops.
 
 Jenkins is not connecting with the Google Kubernetes Cluster because of the following issues: 
 
